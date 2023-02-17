@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/React.js/tree/main/Apps/01-first_app/static/js/main.59787075.js",
-    "index.html": "/React.js/tree/main/Apps/01-first_app/index.html",
-    "main.59787075.js.map": "/React.js/tree/main/Apps/01-first_app/static/js/main.59787075.js.map"
+    "main.js": "/React.js/Apps/01-first_app/static/js/main.59787075.js",
+    "index.html": "/React.js/Apps/01-first_app/index.html",
+    "main.59787075.js.map": "/React.js/Apps/01-first_app/static/js/main.59787075.js.map"
   },
   "entrypoints": [
     "static/js/main.59787075.js"
