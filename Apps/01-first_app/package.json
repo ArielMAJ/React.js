@@ -1,7 +1,7 @@
 {
   "name": "01-first_app",
   "version": "1.0.0",
-  "homepage": "https://arielmaj.github.io/React.js/tree/main/Apps/01-first_app",
+  "homepage": "https://arielmaj.github.io/React.js/Apps/01-first_app",
   "description": "",
   "keywords": [],
   "main": "./src/index.js",
