@@ -1,8 +1,8 @@
 import React from "react";
 
 function Footer() {
-  const developer_gh_name = "@ArielMAJ";
-  const current_year = new Date().getFullYear();
+  const developer_gh_name: string = "@ArielMAJ";
+  const current_year: string = new Date().getFullYear().toString();
 
   return (
     <div>
