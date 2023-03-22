@@ -6,7 +6,7 @@ import SimpleImage from "./SimpleImage";
 import Footer from "./Footer";
 
 function App() {
-  const random_img_link = "https://picsum.photos/200";
+  const random_img_link: string = "https://picsum.photos/200";
 
   return (
     <div>
