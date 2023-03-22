@@ -1,7 +1,7 @@
 import React from "react";
 
 function LoremList() {
-  const number = 123;
+  const number: Number = 123;
   const custom_li_style = {
     color: "blue",
     width: "5em",
@@ -18,7 +18,7 @@ function LoremList() {
         <li>dolor</li>
         <li>sit</li>
         <li>amet</li>
-        <li>Constant: {number}</li>
+        <li>Constant: {number.toString()}</li>
         <li style={custom_li_style}>
           Random: {Math.floor(Math.random() * 100)}
         </li>
